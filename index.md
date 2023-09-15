@@ -1,4 +1,4 @@
 ---
-title: Welcome to my SZ blog, hey hey hey
+title: Welcome to my SZ blog
 ---
 
